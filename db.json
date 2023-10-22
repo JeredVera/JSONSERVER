@@ -1,0 +1,40 @@
+{
+    "conductores": [
+        {
+            "id": 1,
+            "nombre": "Franciso",
+            "genero": "Masculino"
+        },
+        {
+            "id": 2,
+            "nombre": "Carlos",
+            "genero": "Masculino"
+        },
+        {
+            "id": 3,
+            "nombre": "Carla",
+            "genero": "Femenino"
+        }
+    ],
+    "clientes": [
+        {
+            "id": 1,
+            "nombre": "Juan",
+            "genero": "Masculino"
+        },
+        {
+            "id": 2,
+            "nombre": "Kevin",
+            "genero": "Masculino"
+        },
+        {
+            "id": 3,
+            "nombre": "Fabian",
+            "genero": "Masculino"
+        }
+    ],
+    "usuarios": [
+
+    ]
+
+}
