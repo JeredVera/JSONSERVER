@@ -17,21 +17,7 @@
         }
     ],
     "clientes": [
-        {
-            "id": 1,
-            "nombre": "Juan",
-            "genero": "Masculino"
-        },
-        {
-            "id": 2,
-            "nombre": "Kevin",
-            "genero": "Masculino"
-        },
-        {
-            "id": 3,
-            "nombre": "Fabian",
-            "genero": "Masculino"
-        }
+        
     ],
     "usuarios": [
 
